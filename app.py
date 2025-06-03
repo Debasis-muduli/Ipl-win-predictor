@@ -12,9 +12,8 @@ teams = ['Sunrisers Hyderabad',
  'Delhi Capitals']
 
 cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
-       'Chandigarh', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth',
-       'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley',
-       'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
+       'Chandigarh', 'Jaipur', 'Chennai',
+       'Durban', 'Centurion','Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
        'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
        'Sharjah', 'Mohali', 'Bengaluru']
 
